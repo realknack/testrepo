@@ -24,4 +24,4 @@ quite -- to quite
     elif command == "quit":
         break
     else:
-        print("i dont understand")
+        print("i dont understand its getting out of hand")
